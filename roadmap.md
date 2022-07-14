@@ -16,7 +16,7 @@ Implement sliced project management authority to prepare for the transition to d
 
 Achieve compatibility with the Substrate framework and the Kusama network within the quarter.&#x20;
 
-Connect to the Blockchain Oracle service in the Polkadot ecosystem.&#x20;
+Connect to the Blockchain Oracles in the Polkadot ecosystem.&#x20;
 
 Explore cross-chain insurance and off-chain insurance use cases within the Polkadot ecosystem, and the possibility of cross-chain mining of idle capital.&#x20;
 
