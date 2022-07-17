@@ -14,7 +14,7 @@ Implement sliced project management authority to prepare for the transition to d
 
 ### 2023 Q1：
 
-Achieve compatibility with the Substrate framework and the Kusama network within the quarter.&#x20;
+Achieve compatibility with the Substrate framework and the Karura network within the quarter.&#x20;
 
 Connect to the Blockchain Oracles in the Polkadot ecosystem.&#x20;
 
