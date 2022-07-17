@@ -17,7 +17,7 @@ As a decentralized financial protocol, freedom of liquidity in and out and being
 
 Obviously, if an underwriter writes a policy, the protocol will freeze the corresponding amount of coverage. Until this policy expires, the underwriter can only withdraw the unfrozen portion of its own provided assets.&#x20;
 
-The agreement allows the underwriters the freedom to withdraw unfrozen assets while it ensures that the capital for compensation is adequate. The portion that has been frozen may also be withdrawn when the policy expires and the capital is unfrozen.
+The protocol allows the underwriters the freedom to withdraw unfrozen assets while it ensures that the capital for compensation is adequate. The portion that has been frozen may also be withdrawn when the policy expires and the capital is unfrozen.
 
 ## Adding Leverage to Underwriting Capital
 
