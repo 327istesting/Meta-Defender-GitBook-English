@@ -1,6 +1,6 @@
 # Insurance, Claims and Governance Mining
 
-## **How to Buy Insurance**
+## **How to Buy Cover**
 
 If you happen to be a user of one of Meta Defender's whitelisted projects and host a large number of assets which are of great value to you(possibly tokens, stored content, or even privacy), buying insurance for them can prevent unknown pitfalls.&#x20;
 
