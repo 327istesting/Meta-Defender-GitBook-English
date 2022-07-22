@@ -24,5 +24,5 @@ What is "Treasury Retention"?
 Polkadot and the whole web3 world are still developing rapidly, just as the insurance industry has not yet fully exploded, and unprecedented changes can happen in this market at any time. The Treasury Retention Token is a reserve of funds to adapt to new changes in the future, and it will be prepared for project upgrades, participation in public chains, and introduction of strategic partners. The Treasury Retention will be locked for a long time until it is clearly applied.
 {% endhint %}
 
-DEF holders, who are beneficiaries of the proceeds from the Meta Defender protocol. The proceeds include the fee income from insurance premium and the holder vested portion of idle capital, as detailed in[underwriting-and-leveraged-mining.md](project-architecture/underwriting-and-leveraged-mining.md "mention")。
+DEF holders, who are beneficiaries of the proceeds from the Meta Defender protocol. The proceeds include the fee income from insurance premium and the holder vested portion of idle capital, as detailed in[underwriting-and-leveraged-mining.md](project-architecture/underwriting-and-leveraged-mining.md "mention").
 
