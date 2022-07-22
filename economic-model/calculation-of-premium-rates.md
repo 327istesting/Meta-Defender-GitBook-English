@@ -36,5 +36,5 @@ In the traditional insurance industry, premiums are actuarially priced based on 
 
 
 {% hint style="info" %}
-One possible question is whether the mechanism will cause underwriters to purchase their own insurance in bad faith and drive up premium rates. In order to avoid such attack, In order to calculate k, Meta Defender will add another arbitrary number to the real P value, which will make the curve of premium rate more smooth and significantly increase the cost of such attack.&#x20;
+One possible question is whether the mechanism will cause underwriters to purchase their own insurance in bad faith and drive up premium rates. In order to avoid such attack, In order to calculate k, Meta Defender will add virtual liquidity to the real P value, which will make the curve of premium rate more smooth and significantly increase the cost of such attack.&#x20;
 {% endhint %}
