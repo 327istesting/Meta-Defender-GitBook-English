@@ -77,12 +77,14 @@ This is an extremely rare and exceptional circumstance and will result in a redu
 Assume when that this situation arises, and the excess of claims over the Risk Reserve is _δ_, the new _η_ becomes
 
 $$
-Δη = \frac{η_{0}*sToken.totalSupply - δ}{η_{0}*sToken.totalSupply}
+Δη = \frac{TokenRemain - δ}{TokenRemain}
 $$
 
 $$
 η_{new} = η_{0}*Δη
 $$
+
+TokenRemain includes the token frozen in the protocol of the underwriters who are able to underwrite for new policies, as well as the token of those underwriters who has stopping underwriting for new policies.
 
 ​It can be seen that the value of _η_ decreases further, and the number of sTokens - representing the weight of capturing premium rewards, while bearing liability - that can be obtained for an equal amount of Tokens for underwriters joining the pool thereafter is increased . This is clearly due to the reduction in the actual underwriting capacity of the original underwriters following the erosion of the principal in the pool.
 

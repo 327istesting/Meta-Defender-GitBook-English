@@ -54,14 +54,13 @@ Suppose an underwriter P destroys all of his sToken, declaring that he has ended
 
 The protocol creates a "historical identity" for him, P', and records the following parameters:
 
-* $$η*sTokenAmount$$ : the number of Tokens that P can withdraw after its capital is fully unfrozen;
-* withdrawn: the number of Tokens that P has withdrawn, this value may be 0;
+* fsToken(frozen\_sToken): the number of Tokens that this underwriter has not withdrawn, which will be then converted to sToken according to current η;
 * accSPS\_P: the accSPS of P when it quits the protocol;
 * index: the index inherited from P;
 * sTokenAmount\_P : the sTokenAmount inherited from P;
 * SDebt\_P: the sDebt inherited from P.
 
-It can be seen that the maximum amount that can eventually be released by P' is: $$η*sTokenAmount -withdrawn$$​ ------ ①;
+It can be seen that the maximum amount that can eventually be released by P' is: $$η*fsToken$$​ ------ ①;
 
 The shadow inherited by P' from P is:
 
